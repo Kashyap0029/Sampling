@@ -70,3 +70,6 @@ The dataset is imbalanced, therefore sampling methods are applied before model t
 ---
 
 ## 📈 Performance Matrix (Accuracy %)
+
+<img width="928" height="466" alt="image" src="https://github.com/user-attachments/assets/45d54513-db71-4c70-8864-4c834b3f9098" />
+
